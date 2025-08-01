@@ -64,7 +64,7 @@ We exist to help individuals, institutions, and organizations thrive in the digi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omytech-global&show_icons=true&theme=merko" alt="OMYTECH GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omytech-kenya&show_icons=true&theme=merko" alt="OMYTECH GitHub Stats" />
 </p>
 
 ---
@@ -72,7 +72,3 @@ We exist to help individuals, institutions, and organizations thrive in the digi
 ### 🧠 Fun Fact
 
 > We’re not just building software — we’re shaping Africa’s digital future.
-
----
-
-You can now copy this and paste it into your OMYTECH GitHub profile's `README.md` file. Let me know if you want it customized further (e.g., animated logos, dark/light toggle, pinned repo cards, contribution graph).
