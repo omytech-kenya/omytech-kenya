@@ -41,15 +41,6 @@ We exist to help individuals, institutions, and organizations thrive in the digi
 
 ---
 
-### 🚀 Our Projects
-
-- 🚌 [**254 Smart Travel**](https://nairobismarttravel.vercel.app) – A smart assistant for travel guidance across Kenya  
-- 🧠 [**SignBridge AI**](https://signbridge.tech) – A sign language AI assistant  
-- 🧾 [**OMYQ**](https://omyq.vercel.app) – A digital queueing system  
-- 🖥️ [**OMYTECH Website**](https://omytech.vercel.app) – Our home on the web
-
----
-
 ### 📫 Let's Connect
 
 <p>
