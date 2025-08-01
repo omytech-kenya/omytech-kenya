@@ -2,7 +2,7 @@
 <h3 align="center">Innovating the Future, Empowering Africa</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+digital+solutions+for+Africa+and+beyond;Empowering+businesses+with+modern+tech;Web+%7C+Mobile+%7C+Automation+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Crafting+digital+solutions+for+Africa+and+beyond;Empowering+businesses+with+modern+tech;Web+%7C+Mobile+%7C+Automation+%7C+AI" alt="Typing SVG" />
 </p>
 
 ---
